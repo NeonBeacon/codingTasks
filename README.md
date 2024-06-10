@@ -1,13 +1,4 @@
-
-# Portfolio website
-
-
-An interactive and responsive website dedicated to hosting my portfolio work.
-
-             ------Still under development-------
-
-
-             This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
 
